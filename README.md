@@ -1,2 +1,2 @@
-# The-Emmeline.github.io
-Workshop
+# Emmeline-Site
+A simple workshop
