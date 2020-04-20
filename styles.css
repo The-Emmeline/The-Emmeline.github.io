@@ -2418,6 +2418,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
+  /* BUTTON COLOR */
   color: #212529;
   text-align: center;
   vertical-align: middle;
@@ -6066,8 +6067,10 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+
+/* COLOR  */
 .bg-primary {
-  background-color: LightSlateGray !important;
+  background-color: pink !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9747,16 +9750,18 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
+
+/* COLOR */
 .text-primary {
   color: LightSlateGray !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #d6370c !important;
+  color: pink !important;
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: blue !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
